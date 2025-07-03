@@ -1,6 +1,6 @@
 # Projecto0
 
-**Projecto0** is a cross-platform project and knowledge management application designed to help individuals and teams organize, track, and maintain their work and information in one place.
+**Projecto0** is a cross-platform project and knowledge management application designed to help organize, track, and maintain their work and information in one place.
 
 This project features both a **web application** and a **desktop application**, providing flexibility for users across different platforms.
 
